@@ -1,5 +1,4 @@
 {
-
   "name": "dev_jokes_bot",
   "description": "Example",
   "version": "1.0.0",
@@ -8,6 +7,8 @@
     "start": "node devJokesBot.js"
   },
   "dependencies": {
-    "discord.js": "11.5.1"
+    "axios": "^0.19.2",
+    "discord.js": "11.5.1",
+    "dotenv": "^8.2.0"
   }
 }
