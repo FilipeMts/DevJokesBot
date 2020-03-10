@@ -1,0 +1,13 @@
+{
+
+  "name": "dev_jokes_bot",
+  "description": "Example",
+  "version": "1.0.0",
+  "main": "devJokesBot.js",
+  "scripts": {
+    "start": "node devJokesBot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.5.1"
+  }
+}
